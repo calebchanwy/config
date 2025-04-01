@@ -1,0 +1,11 @@
+# Ignore all files
+*
+
+# Exclude config files
+!.gitignore
+!.bashrc
+!.tmux.conf
+!.bash_aliases
+!.gdbinit
+!.gitconfig
+!.emacs
