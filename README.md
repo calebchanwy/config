@@ -1,2 +1,2 @@
 # config
-Configuration files for my optimum setup
+Configuration files for my personal setup
